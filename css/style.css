@@ -1,0 +1,38 @@
+header>h1{
+    text-align: center;
+    background-color: aqua;
+    padding: 5px;
+    border-radius: 4px;
+    font-family: tahoma;
+}
+
+.main-container{
+    display: flex;
+}
+.container-form>h2{
+    text-align: center;
+    margin: auto;
+}
+.container-form{
+    padding: 10px;
+    background-color: #f2f3f5;
+    border: 1px solid;
+    border-radius: 5px;
+    width: 100%;
+}
+.form{
+    margin-bottom: 10px;
+}
+.container-result{
+    text-align: center;
+    background-color: #f2f3f5;
+    border: 1px solid;
+    border-radius: 5px;
+    width: 100%;
+}
+.button-result{
+    background-color:turquoise;
+    color: #f2f3f5;
+    border-radius: 5px;
+    margin: 5px;
+}
