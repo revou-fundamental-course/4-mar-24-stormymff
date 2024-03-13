@@ -15,7 +15,6 @@ header>h1{
 }
 .container-form{
     padding: 10px;
-    background-color: #f2f3f5;
     border: 1px solid;
     border-radius: 5px;
     width: 100%;
@@ -23,16 +22,50 @@ header>h1{
 .form{
     margin-bottom: 10px;
 }
-.container-result{
-    text-align: center;
+.form-input{
+    margin-bottom: 30px;
+    padding: 10px;
     background-color: #f2f3f5;
+}
+.button-calculate{
+    text-align: center;
+    background-color: #5cc0de;
+    color: white;
+    padding: 8px;
+    border: 1px solid;
+    border-radius: 5px;
+}
+.button-reset{
+    padding: 8px;
+    background-color: red;
+    color: white;
+    text-align: center;
+    border: 1px solid;
+    border-radius: 5px;
+}
+.container-result{
+    padding: 10px;
     border: 1px solid;
     border-radius: 5px;
     width: 100%;
 }
+.result{
+    padding: 10px;
+    background-color: #f2f3f5;
+    padding-top: 5px;
+    padding-bottom: 10px;
+}
 .button-result{
-    background-color:turquoise;
-    color: #f2f3f5;
+    text-align: center;
+    background-color: #5cc0de;
+    color: white;
+    padding: 8px;
+    border: 1px solid;
     border-radius: 5px;
-    margin: 5px;
+}
+.result-definition{
+    padding: 10px;
+    background-color: #f2f3f5;
+    padding-top: 5px;
+    padding-bottom: 10px;
 }
